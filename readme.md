@@ -1,0 +1,1 @@
+The aim is to built a chess piece identification robot using robotic vision which can identify different types of chess pieces and distinguish between color and make a optimal move when integrated with a chess based model. The robot can then be used compete with humans or the other robots to test their chess skills.
